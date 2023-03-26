@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Amazon">
+	<test name="TestN" allow-return-values="true">
+		<classes>
+			<class name="testLayer.AmazonTest" />
+		</classes>
+	</test>
+	
+
+</suite>
